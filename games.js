@@ -54,6 +54,7 @@ var UNREAL2_5 = 'Unreal Engine 2.5'
 var UNREAL3 = 'Unreal Engine 3'
 var UNREAL4 = 'Unreal Engine 4'
 var XNA = 'Microsoft XNA'
+var IGNITE = 'Ignite_Engine'
 
 GAMES = [
     {name: 'Scrap Mechanic', engine: OWN_ENGINE, releaseDate: {d: 19, m: 1, y: 2016}, imgId: 'scrap-mechanic', yt: '5kjBuCK_ZKM'}, // http://www.scrapmechanic.com/news/devblog-8-is-here/
@@ -127,4 +128,8 @@ GAMES = [
   {name: 'Terraria', engine: XNA, releaseDate: {d: 16, m: 5, y: 2011}, imgId: 'terraria', yt: '-nXdtDgpPeE'},
   {name: 'Gunslugs 2', engine: LIBGDX, releaseDate: {d: 14, m: 1, y: 2015}, imgId: 'gunslugs2', yt: 'BxL8HIPMcFA'},
   {name: 'Gwent: The Witcher Card Game', engine: UNITY, releaseDate: {d: 24, m: 5, y: 2017}, imgId: 'gwent', yt: 'sKqy04OmOGo'} // https://en.wikipedia.org/wiki/CD_Projekt#Games_development (Releasetag = Start der Open Beta)
+  {name: 'FIFA 16', engine: IGNITE, releaseDate: {d: 22, m: 09, y: 2015}, imgID: 'FIFA 16', yt: 'F-OgKyUuFfI'}, //https://de.wikipedia.org/wiki/FIFA_16
+  {name: 'FIFA 17', engine: FROSTBITE, releaseDate: {d: 29, m: 09, y: 2016}, imgID: 'FIFA 17', yt: 'yYjD78X1d9Q'}, //https://de.wikipedia.org/wiki/FIFA_17
+  {name: 'FIFA 18', engine: FROSTBITE, releaseDate: {d: 29, m: 09, y: 2017}, imgID: 'FIFA 18', yt: 'QV7PK8AVEKA'}, //https://en.wikipedia.org/wiki/FIFA_18
 ]
+
